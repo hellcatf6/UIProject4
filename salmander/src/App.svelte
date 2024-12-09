@@ -1,10 +1,12 @@
 <body>
-<main id="background">
-  <p id="displayPop">
-    Hello!
-  </p>
-  <div>
-    <button type="button" id="my">Start</button>
+<main>
+  <div id="box">
+    <p id="displayPop">
+      Hello!
+    </p>
+    <div>
+      <button type="button" id="my">Start</button>
+    </div>
   </div>
 </main>
 
